@@ -1,3 +1,3 @@
 # AlgorithmAnalysis
 
-Alogrithm Anlysis course assignments.
+Analysis and practice for various algorithms.
